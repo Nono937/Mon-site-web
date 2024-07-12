@@ -1,0 +1,32 @@
+h1{
+	color:#000000;
+}
+p{
+	front-style: amatic sc;
+	background-color: #e25ad0;
+	text-align: center;
+}
+
+.container{
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.container h2{
+	margin-bottom: 10px;
+}
+
+.container p {
+	line-height: 1.4;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 50% ;
+	float: left;
+}
+
+img{
+	width: 200px;
+}
